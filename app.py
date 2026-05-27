@@ -61,7 +61,7 @@ with st.expander('Analizar texto'):
             st.success('Es un sentimiento Positivo 😊')
 
             st.image(
-                "feliz.png",
+                "feliz.jpg",
                 width=220
             )
 
@@ -71,7 +71,7 @@ with st.expander('Analizar texto'):
             st.error('Es un sentimiento Negativo 😔')
 
             st.image(
-                "triste.png",
+                "triste.jpg",
                 width=220
             )
 
@@ -81,6 +81,6 @@ with st.expander('Analizar texto'):
             st.warning('Es un sentimiento Neutral 😐')
 
             st.image(
-                "neutral.png",
+                "neutral.jpg",
                 width=220
             )
